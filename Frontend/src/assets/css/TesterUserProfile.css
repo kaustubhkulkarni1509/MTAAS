@@ -1,0 +1,41 @@
+.cardCategoryWhite {
+    color:rgba(255,255,255,.62);
+    margin: 0px ;
+    font-size: 14px;
+    margin-top: 0 px;
+    margin-bottom: 0 px;
+  }
+
+  .cardTitleWhite {
+    color: "#FFFFFF";
+    margin-top: 0px;
+    height:  auto;
+    font-weight: "300";
+    font-family: "'Roboto', 'Helvetica', 'Arial', sans-serif";
+    margin-bottom: "3px";
+    
+  }
+
+  .margin{
+      margin: 0 10px ;
+      font-size: medium;
+      width:100%;
+  }
+
+  .test{
+     
+        width:100%;
+        margin-bottom: 20px;
+  }
+
+  .test1{
+        
+  }
+
+  .divwidth{
+      width:100%;
+  }
+
+  .inputsize{
+      width:300px;
+  }

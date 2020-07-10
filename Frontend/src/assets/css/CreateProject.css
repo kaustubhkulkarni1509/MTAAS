@@ -1,0 +1,37 @@
+.typo {
+    padding-left: 25%;
+    margin-bottom: 40px;
+    position:relative;
+  }
+
+  .note {
+    font-family: '"Roboto", "Helvetica", "Arial", sans-serif';
+    bottom: 10px;
+    color: #c0c1c2;
+    display: block;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    left: 0;
+    margin-left: 20px;
+    position: absolute;
+    width: 260px;
+  }
+
+  .cardCategoryWhite {
+    color: "rgba(255,255,255,.62)";
+    margin: 0;
+    font-size: 14px;
+    margin-top:0;
+    margin-bottom: 0;
+  }
+
+  .cardTitleWhite {
+    color: #FFFFFF;
+    margin-top: 0px;
+    min-height: auto;
+    font-weight: 300;
+    font-family: "'Roboto', 'Helvetica', 'Arial', sans-serif";
+    margin-bottom: 3px;
+    text-decoration: none;
+  }

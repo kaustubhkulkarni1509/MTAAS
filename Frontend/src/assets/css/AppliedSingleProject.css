@@ -1,0 +1,7 @@
+.innerdiv{
+    width: 50%;
+}
+
+.outerdiv{
+    display:flex;
+}

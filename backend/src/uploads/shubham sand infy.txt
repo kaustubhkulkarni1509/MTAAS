@@ -1,0 +1,3 @@
+• Developed REST APIs for company training portal with cached and optimal responses in Express.js to improve performance and user interaction.
+• Involved in revamping the UI of the unit web page, changing the look and feel using Bootstrap4, jQuery and D3.
+• Automated a monitoring case creation process to generate a system health check using Pega Robotics agents and activities by leveraging APIs exposed by several systems, thereby increasing cycle efficiency.
